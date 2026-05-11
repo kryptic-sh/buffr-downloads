@@ -15,5 +15,6 @@ All notable changes to `buffr-downloads` are documented here. Format follows
 - Added per-repo CI (fmt / clippy / test matrix / cargo-deny) and a tag-driven
   release workflow that publishes idempotently to crates.io.
 
-[Unreleased]: https://github.com/kryptic-sh/buffr-downloads/compare/v0.1.1...HEAD
+[Unreleased]:
+  https://github.com/kryptic-sh/buffr-downloads/compare/v0.1.1...HEAD
 [0.1.1]: https://github.com/kryptic-sh/buffr-downloads/releases/tag/v0.1.1
